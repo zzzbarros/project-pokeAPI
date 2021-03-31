@@ -6,7 +6,7 @@
 
 body {
   margin: 0;
-  background-color: #fff;
+  background:url("https://firebasestorage.googleapis.com/v0/b/project-firebase-c495f.appspot.com/o/test_poke_api%2Fbackground-main.png?alt=media&token=3b7345d6-c58a-4774-baba-b96264499b7e") top center no-repeat #fff;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;

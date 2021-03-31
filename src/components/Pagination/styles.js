@@ -1,17 +1,14 @@
 import styled from 'styled-components'
 
-
-export const Container = styled.div`
-    min-width: 100px;
-`
-
 export const Button = styled.button`
     min-width: 70px;
     display: flex;
     justify-content: center;
+    margin: 8px;
     padding: 8px;
     background: none;
     border: 1px solid;
+    border-radius: 8px;
     border-radius: 100px;
     transition: all ease-out .25s;
     cursor: pointer;
